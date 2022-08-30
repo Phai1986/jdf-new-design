@@ -1,0 +1,36 @@
+{
+  "text_top": "Our Flavor lists",
+  "CoconutChips_sub": [
+    {
+      "title": "Coconut Chips",
+      "desc": "Coconut is an important crop and agricultural product that has long been familiar to Thai people. The popular coconut processing is the crispy coconuts in a variety of flavors to meet the needs of a variety of consumers today. It is delicious and healthy. We guarantee the quality with BRC Kosher and Halal standards.",
+      "list_items": [
+        "Coconut Chips",
+        "Coconut Briquette",
+        "Coconut Bites"
+      ]
+    },
+    {
+      "title": "Air Dried Meat",
+      "desc": "JD Food has carefully selected ingredients to make dehydrated meats and dehydrated seafood combined with modern production processes We can guarantee that our dehydrated meats are of good quality and safe. It can confidently be assembled in a wide variety of foods, for example, in the instant noodle industry, some flavors are often added to dehydrated meat as raw materials to add nutritional value, color, and flavor.",
+      "list_items": [
+        "Chicken Powder",
+        "Cuttlefish Powder",
+        "Fish Powder / Dried Fish",
+        "Shrimp Powder / Dried Shrimp"
+      ]
+    },
+    {
+      "title": "Air Dried Vegetable",
+      "desc": "JD Food produces various types of dehydrated vegetables and dehydrated spices, such as chili, galangal, lemongrass, kaffir lime leaves by our patented modern machinery under the standard system. The entrepreneurs can be confident in our taste and safety. We produce under genuine international standards. The entrepreneurs can also choose different types of vegetables and spices independently for individual products as needed.",
+      "list_items": [
+        "Galangal Powder / Dried Galangal",
+        "Kafferlime Leave Powder / Dried Kafferlime Leave",
+        "Lemongrass Powder / Dried Lemongrass",
+        "Mint Powder / Dried Mint",
+        "Red Hot Chilli Powder",
+        "Roasted Rice Powder"
+      ]
+    }
+  ]
+}

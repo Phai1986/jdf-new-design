@@ -1,0 +1,125 @@
+{
+    "company_director": [
+        {
+            "title": "กรรมการบริษัท",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img1.png",
+                    "name": "ศ.ดร. สุรพล นิติไกรพจน์",
+                    "position": "ประธานกรรมการบริษัท"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img2.png",
+                    "name": "นายสรสิทธิ์ สุนทรเกศ",
+                    "position": "กรรมการอิสระ / ประธานกรรมการตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img3.png",
+                    "name": "นายจิรวัฒน์ ลิ้วประเสริฐ",
+                    "position": "กรรมการอิสระ / กรรมการ ตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "กรรมการอิสระ / กรรมการ ตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img5.png",
+                    "name": "ดร.ธนัย ชรินทร์สาร",
+                    "position": "กรรมการอิสระ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img6.png",
+                    "name": "นายธีรบุล หอสัจจกุล",
+                    "position": "กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "ประธานเจ้าหน้าที่บริหาร/กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img9.png",
+                    "name": "นายปวิณ หอสัจจกุล",
+                    "position": "กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img10.png",
+                    "name": "น.ส.ธีรดา หอสัจจกุล",
+                    "position": "กรรมการ"
+                }
+            ]
+        }
+    ],
+    "executive_committee": [
+        {
+            "title": "คณะกรรมการบริหาร",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img6.png",
+                    "name": "นายธีรบุล หอสัจจกุล",
+                    "position": "กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "ประธานเจ้าหน้าที่บริหาร/กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img9.png",
+                    "name": "นายปวิณ หอสัจจกุล",
+                    "position": "กรรมการ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img10.png",
+                    "name": "น.ส.ธีรดา หอสัจจกุล",
+                    "position": "กรรมการ"
+                }
+            ]
+        }
+    ],
+    "nomination_committee": [
+        {
+            "title": "คณะกรรมการบริหาร",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "กรรมการอิสระ / กรรมการ ตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img5.png",
+                    "name": "ดร.ธนัย ชรินทร์สาร",
+                    "position": "กรรมการอิสระ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "ประธานเจ้าหน้าที่บริหาร/กรรมการ"
+                }
+            ]
+        }
+    ],
+    "audit_committee": [
+        {
+            "title": "คณะกรรมการบริหาร",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img2.png",
+                    "name": "นายสรสิทธิ์ สุนทรเกศ",
+                    "position": "กรรมการอิสระ / ประธานกรรมการตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img3.png",
+                    "name": "นายจิรวัฒน์ ลิ้วประเสริฐ",
+                    "position": "กรรมการอิสระ / กรรมการ ตรวจสอบ"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "กรรมการอิสระ / กรรมการ ตรวจสอบ"
+                }
+            ]
+        }
+    ]
+}

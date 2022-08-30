@@ -1,0 +1,79 @@
+@import './variables.module.scss';
+
+.history_background {
+    background-color: $txt_white;
+    overflow: hidden;
+
+    .hisbox {
+        margin-bottom: 60px;
+        position: relative;
+
+        .bg_year {
+            width: 100%;
+            font-size: 120px;
+            color: #d5dee1;
+            text-align: center;
+            opacity: .5;
+            position: absolute;
+            top: 10%;
+            left: 0;
+        }
+
+        .line {
+            position: relative;
+            :before {
+                background: none repeat scroll 0 0 $primary-color;
+                border-radius: 50%;
+                box-shadow: 0 0 0 3px #fff, 0 0 0 6px $primary-color;
+                content: "";
+                display: block;
+                height: 6px;
+                margin-left: -5px;
+                position: absolute;
+                right: 0;
+                top: 10px;
+                width: 6px;
+                z-index: 2;
+            }
+            :after {
+                content: "";
+                display: block;
+                position: absolute;
+                right: 3px;
+                top: 3px;
+                height: 100%;
+                border-left: 1px solid #d5dee1;
+                z-index: 1;
+            }
+        }
+
+        h2 {
+            font-size: 30px;
+            text-align: center;
+            margin-bottom: 60px;
+
+            @media only screen and (max-width: 810px) {
+                font-size: 22px;
+            }
+        }
+
+        h3 {
+            font-size: 30px;
+            color: $primary-color;
+            text-align: right;
+            padding-right: 20%;
+        }
+
+        p {
+            font-family: $font_light;
+            padding-left: 20%;
+            padding-right: 30%;
+            min-height: 200px;
+
+            @media only screen and (max-width: 810px) {
+                padding-left: 10%;
+                padding-right: 0;
+            }
+        }
+    }
+}

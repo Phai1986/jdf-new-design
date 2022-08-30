@@ -1,0 +1,112 @@
+@import './variables.module.scss';
+
+.news_active {
+    background-color: $txt_white;
+    overflow: hidden;
+
+    h2 {
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 60px;
+
+        @media only screen and (max-width: 810px) {
+            font-size: 22px;
+        }
+    }
+
+    .hisbox {
+        margin-bottom: 60px;
+
+        @media only screen and (max-width: 480px) {
+            margin: 20px 0 40px;
+        }
+
+        .line {
+            position: relative;
+
+            &::before {
+                background: none repeat scroll 0 0 $primary-color;
+                border-radius: 50%;
+                box-shadow: 0 0 0 3px #fff, 0 0 0 6px $primary-color;
+                content: "";
+                display: block;
+                height: 6px;
+                margin-left: -5px;
+                position: absolute;
+                right: 0;
+                top: 10px;
+                width: 6px;
+                z-index: 2;
+
+                @media only screen and (max-width: 480px) {
+                    display: none;
+                }
+            }
+
+            &::after {
+                content: "";
+                display: block;
+                position: absolute;
+                right: 3px;
+                top: 3px;
+                height: 100%;
+                border-left: 1px solid #d5dee1;
+                z-index: 1;
+
+                @media only screen and (max-width: 480px) {
+                    display: none;
+                }
+            }
+        }
+
+        img {
+            float: right;
+            margin-right: 20%;
+
+            @media only screen and (max-width: 480px) {
+                float: none;
+                margin-right: 10%;
+            }
+        }
+
+        h3 {
+            font-size: 30px;
+            color: $primary-color;
+            padding-left: 20%;
+            margin: 0 0 15px;
+
+            @media only screen and (max-width: 480px) {
+                font-size: 22px;
+                padding-left: 0;
+                margin: 20px 0;
+            }
+        }
+
+        h4 {
+            font-size: 20px;
+            color: $primary-color;
+            padding-left: 20%;
+            margin: 15px 0;
+
+            @media only screen and (max-width: 480px) {
+                font-size: 18px;
+                padding-left: 0;
+            }
+        }
+
+        p {
+            font-family: $font_light;
+            padding-left: 20%;
+            padding-right: 30%;
+            color: $txt_gray;
+            min-height: 200px;
+
+            @media only screen and (max-width: 480px) {
+                padding-left: 0;
+                padding-right: 0;
+                font-size: 14px;
+                min-height: auto;
+            }
+        }
+    }
+}

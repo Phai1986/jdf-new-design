@@ -1,0 +1,159 @@
+{
+    "goodeats": {
+        "banner": {
+            "logo": "../../images/product/goodeats/goodeats-logo.png",
+            "img": "../../images/product/goodeats/goodeats-banner.png",
+            "p": "GOOD EATS ซุปพรีเมียมกึ่งสำเร็จรูป ที่เพียงแค่เปิดคัพ ฉีกซอง เติมน้ำร้อน แล้วคนให้เข้ากัน เพียงแค่นี้ ก็พบกับความอร่อยระดับพรีเมียม ที่รังสรรค์ด้วยตัวคุณเอง เหมือนมีเชฟมาทำให้ที่บ้าน"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/goodeats-truffle.png",
+                "h1": "GOOD EATS TRUFFLE SOUP",
+                "p": "ซุปทรัฟเฟิลกึ่งสำเร็จรุป จาก BLACK TRUFFLE และ WHITE TRUFFLE ชั้นดีจากประเทศอิตาลี"
+            },
+            {
+                "img": "../../images/product/goodeats/goodeats-lobster.png",
+                "h1": "GOOD EATS LOBSTER BISQUE",
+                "p": "ซุปล๊อบสเตอร์ รสชาติเข้มข้นจากมหาสมุทรแถบแคนาดา และสหรัฐอเมริกา"
+            }
+        ]
+    },
+    "kindee": {
+        "banner": {
+            "logo": "../../images/product/goodeats/kindee-logo.png",
+            "img": "../../images/product/goodeats/kindee-banner.png",
+            "p": "ภายใต้แนวคิดที่ว่า “ใครๆ ก็เป็นเชฟได้” และความตั้งใจที่จะนำเสนออาหารไทยรสชาติดั้งเดิม JD FOOD จึงสร้างแบรนด์ ‘กินดี’ ออกสู่ตลาดเมื่อกลางปี 2548 โดยมี ผลิตภัณฑ์อาหารกึ่งสำเร็จรูปประเภทข้าว ก๋วยเตี๋ยว ผัดไทย และผงแกง ที่มีจุดเด่นคือรสชาติที่เข้มข้นถูกปากคนไทย ง่ายและสะดวกในการปรุง ที่สำคัญคือราคาไม่แพงจนเกินไป โดยในอนาคต เราจะมีกลุ่มผลิตภัณฑ์อาหารแบบต่างๆ ออกสู่ท้องตลาดมากขึ้น คือ กลุ่มข้าวกึ่งสำเร็จรูป แกงและซุปกึ่งสำเร็จรูป และผัดไทยกึ่งสำเร็จรูป เพื่อตอบสนองต่อความต้องการของผู้บริโภคที่ต้องการอาหารกึ่งสำเร็จรูป เพื่อนำไปปรุงรสชาติเพิ่มเติม"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/kindee-tomyum.png",
+                "h1": "ต้มยำ",
+                "p": "อาหารขึ้นชื่อของประเทศไทย มาในรูปแบบผงปรุงสำเร็จรูป ประกอบด้วยเครื่องเทศและเครื่องปรุงรสในซองเดียว เพียงแค่ใส่เนื้อสัตว์และผักลงไปต้มพร้อมกับผงกินดี ก็สามารถอิ่มอร่อยได้ภายในเวลาแค่ 5 นาที"
+            },
+            {
+                "img": "../../images/product/goodeats/kindee-greencurry.png",
+                "h1": "แกงเขียวหวาน",
+                "p": "อีกหนึ่งอาหารขึ้นชื่อของประเทศไทย มาในรูปแบบผงปรุงสำเร็จรูป ประกอบด้วยเครื่องเทศและเครื่องปรุงรสในซองเดียว เพียงแค่ใส่เนื้อสัตว์และผักลงไปต้มพร้อมกับผงกินดี ก็สามารถอิ่มอร่อยได้ภายในเวลาแค่ 5 นาที"
+            },
+            {
+                "img": "../../images/product/goodeats/kindee-pork-chop.png",
+                "h1": "ลาบ - น้ำตก",
+                "p": "อาหารพื้นบ้านของประเทศไทยมาในรูปแบบผงปรุงสำเร็จรูป ประกอบด้วยเครื่องเทศและเครื่องปรุงรสในซองเดียว เพียงแค่ใส่เนื้อสัตว์และผักลงไปพร้อมกับผงกินดี ก็สามารถอิ่มอร่อยได้ภายในเวลาแค่ 5 นาที"
+            }
+        ]
+    },
+    "crispconut": {
+        "banner": {
+            "logo": "../../images/product/goodeats/crispconut-logo.png",
+            "img": "../../images/product/goodeats/crispconut-banner.png",
+            "p": "CRISPCONUT อาหารว่างทานเล่นสำหรับคนรักสุขภาพ คัดสรรค์มะพร้าวจากแหล่งปลูกมะพร้าวที่ดีที่สุดในประเทศ มะพร้าวทึนทึกรสชาติเข้มข้น มีกลิ่นหอม ผลิตผ่านการอบโดยไม่ใช้น้ำมัน ไม่ใส่วัตถุกันเสีย ทำให้มะพร้าวอบกรอบของเรามีรสชาติแสนอร่อย หอมหวาน และดีต่อสุขภาพ นอกจากเป็นของว่างทานเล่นแล้ว มะพร้าวอบกรอบของเรา ยังเหมาะกับการทำขนม โรยบนสลัด ใส่ในโยเกิร์ต และนำไปทานกับอาหารจานหลัก หรืออื่นๆ ตามแต่ความรังสรรค์ของลูกค้า"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/Crispconut/original.jpg",
+                "h1": "มะพร้าวอบกรอบ รสดั้งเดิม"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/chocolate.jpg",
+                "h1": "มะพร้าวอบกรอบ รสช็อกโกแล็ต"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/wasabi.jpg",
+                "h1": "มะพร้าวอบกรอบ รสวาซาบิ"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/salted-caramel.jpg",
+                "h1": "มะพร้าวอบกรอบ รสซอลต์คาราเมล"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/curry.jpg",
+                "h1": "มะพร้าวอบกรอบ รสแกงกะหรี่"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-chocolate.jpg",
+                "h1": "มะพร้าวอัดก้อน รสช็อกโกแลต"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-mango.jpg",
+                "h1": "มะพร้าวอัดก้อน รสมะม่วง"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-durian.jpg",
+                "h1": "มะพร้าวอัดก้อน รสทุเรียน"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-matcha.jpg",
+                "h1": "มะพร้าวอัดก้อน รสชาเขียว"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-seedmedley.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสซีด เมดเลย์"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-puffedrice-and-cranberry.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสพัฟไรซ์ โกโก้ แอนด์แครนเบอร์รี่"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-dark-chocolate-and-cranberry.jpg",
+                "h1": "มะพร้าวก้อนอัดกรอบ รสดาร์กช็อคโกแลตแอนด์แครนเบอร์รี่"
+            }
+        ]
+    },
+    "okseasonings": {
+        "banner": {
+            "logo": "../../images/product/goodeats/OK-Seasoning-logo.png",
+            "img": "../../images/product/goodeats/OK-Seasoning-banner.png",
+            "p": "ผงปรุงรสและฟิลลิ่งตรา ‘โอเค’ จัดจำหน่ายแก่ผู้ประกอบการร้านอาหาร และร้านเบเกอรี ผลิตภัณฑ์ต่างๆ ถูกคิดค้นสูตรให้เหมาะสมกับอาหารและเบเกอรี โดยนักวิจัยและพัฒนามืออาชีพ และผลิตภายใต้เครื่องจักรที่ทันสมัย ลูกค้าสามารถมั่นใจในรสชาติที่คงตัวสม่ำเสมอ และมีความปลอดภัยในการรับประทาน"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/salted-eggs.jpg",
+                "h1": "OK Seasoning รสไข่เค็ม"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/mala.jpg",
+                "h1": "OK Seasoning รสหม่าล่า"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/hot-and-spicy.jpg",
+                "h1": "OK Seasoning รสฮอตแอนด์สไปซี่"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/pizza.jpg",
+                "h1": "OK Seasoning รสพิซซ่า"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/wing-zab.jpg",
+                "h1": "OK Seasoning รสวิงแซ่บ"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/tomyum.jpg",
+                "h1": "OK Seasoning รสต้มยำ"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/paprika.jpg",
+                "h1": "OK Seasoning รสปาปริก้า"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/popcorn.jpg",
+                "h1": "OK Seasoning รสข้าวโพดป๊อป"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/cheese.jpg",
+                "h1": "OK Seasoning รสชีส"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/nori.jpg",
+                "h1": "OK Seasoning รสโนริสาหร่าย"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/barbecue.jpg",
+                "h1": "OK Seasoning รสบาร์บีคิว"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/ok-fillings.jpg",
+                "h1": "OK ฟิลลิ่งและมายองเนส"
+            }
+        ]
+    }
+}

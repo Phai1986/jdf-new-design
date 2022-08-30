@@ -1,0 +1,29 @@
+{
+    "title": "Our Services",
+    "post_block": [
+        {
+            "img": "../images/post1.jpg",
+            "title": "New and Unique Flavor",
+            "text": "The product will stand out, there must be unique. Therefore, our research team invents new flavors to make our products unique and memorable.",
+            "link": "/product5"
+        },
+        {
+            "img": "../images/post2.jpg",
+            "title": "Scale Up Your Food Business",
+            "text": "We will be side by side for every growth, from family business to large business supported by modern technology and machinery to be able to increase production capacity as needed.",
+            "link": "/product5"
+        },
+        {
+            "img": "../images/post3.jpg",
+            "title": "Solve the consistency problem",
+            "text": "No matter how much franchises are, the taste will be stable as the original because it is made from high-quality ingredients with accurate and standardized formulas.",
+            "link": "/product5"
+        },
+        {
+            "img": "../images/post4.jpg",
+            "title": "Keep the secret",
+            "text": "We value the confidentiality of our customers. No more problem about publishing a unique secret formula at all.",
+            "link": "/product5"
+        }
+    ]
+}

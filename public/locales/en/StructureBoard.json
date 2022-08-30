@@ -1,0 +1,125 @@
+{
+    "company_director": [
+        {
+            "title": "Company Director",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img1.png",
+                    "name": "ศ.ดร. สุรพล นิติไกรพจน์",
+                    "position": "Independent Chairman"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img2.png",
+                    "name": "นายสรสิทธิ์ สุนทรเกศ",
+                    "position": "Independent Committee / Chairman of the Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img3.png",
+                    "name": "นายจิรวัฒน์ ลิ้วประเสริฐ",
+                    "position": "Independent Committee / Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "Independent Committee / Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img5.png",
+                    "name": "ดร.ธนัย ชรินทร์สาร",
+                    "position": "Independent Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img6.png",
+                    "name": "นายธีรบุล หอสัจจกุล",
+                    "position": "Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "Chief Executive Officer / Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img9.png",
+                    "name": "นายปวิณ หอสัจจกุล",
+                    "position": "Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img10.png",
+                    "name": "น.ส.ธีรดา หอสัจจกุล",
+                    "position": "Company Director"
+                }
+            ]
+        }
+    ],
+    "executive_committee": [
+        {
+            "title": "EXECUTIVE COMMITTEE",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img6.png",
+                    "name": "นายธีรบุล หอสัจจกุล",
+                    "position": "Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "Chief Executive Officer / Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img9.png",
+                    "name": "นายปวิณ หอสัจจกุล",
+                    "position": "Company Director"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img10.png",
+                    "name": "น.ส.ธีรดา หอสัจจกุล",
+                    "position": "Company Director"
+                }
+            ]
+        }
+    ],
+    "nomination_committee": [
+        {
+            "title": "NOMINATION AND REMUNERATION COMMITTEE",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "Independent Committee / Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img5.png",
+                    "name": "ดร.ธนัย ชรินทร์สาร",
+                    "position": "Independent Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img7.png",
+                    "name": "น.ส.รัตนา เอี้ยประเสริฐศักดิ์",
+                    "position": "Chief Executive Officer / Company Director"
+                }
+            ]
+        }
+    ],
+    "audit_committee": [
+        {
+            "title": "AUDIT COMMITTEE",
+            "board": [
+                {
+                    "img": "../../images/about/board_of_director/img2.png",
+                    "name": "นายสรสิทธิ์ สุนทรเกศ",
+                    "position": "Independent Committee / Chairman of the Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img3.png",
+                    "name": "นายจิรวัฒน์ ลิ้วประเสริฐ",
+                    "position": "Independent Committee / Audit Committee"
+                },
+                {
+                    "img": "../../images/about/board_of_director/img4.png",
+                    "name": "นายดนัย วัฒนจริยา",
+                    "position": "Independent Committee / Audit Committee"
+                }
+            ]
+        }
+    ]
+}

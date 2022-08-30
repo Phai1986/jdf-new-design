@@ -1,0 +1,27 @@
+@import './variables.module.scss';
+
+.jdf_brand {
+    text-align: center;
+
+    h2 {
+        font-size: 40px;
+        color: $primary-color;
+    }
+
+    ul {
+        list-style: none;
+        width: 100%;
+        margin-top: 40px;
+
+        li {
+            display: inline-block;
+            margin: 0 3%;
+
+            img {
+                height: 100px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 480px) {}

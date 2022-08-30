@@ -1,0 +1,67 @@
+{
+    "sec1": [
+        {
+            "h1": "JD FOOD",
+            "p": "JD Food is a leading manufacturer of seasonings and instant foods that meet international standards. We have adhered to product quality and products that can meet the needs of all food businesses, whether it be OTOP, SMEs, or large industries with our qualified and acceptable products for both domestically and internationally."
+        }
+    ],
+    "jdf_detail": [
+        {
+            "h2": "JD FOOD PCL.",
+            "p1": "We are the manufacturer of seasonings and instant foods to distribute to food manufacturers. With our experience for more than 22 years, JD Food has invented, developed, and offered more than 10,000 innovative seasonings and formulas to entrepreneurs to present our commitment to creating quality products that are safe and meet various international standard requirements.",
+            "p2": "JD Food pays attention to and serves entrepreneurs, SMEs, and large food industries with a minimum order amount of 100 kilograms. Our products are BRC standard. Therefore, entrepreneurs can export their products internationally with a professional team. Our specialists in food science provide advice on formulation or improvement of seasonings formulas. The entrepreneur will be receiving the required products. Moreover, we are committed to keeping the confidential formula. Our customers can be assured that all formulas will be kept with ethical conduct and standards which have been our top priorities throughout our business for over 22 years."
+        }
+    ],
+    "jdf_board": [
+        {
+            "h2": "“We are the leader of the national food seasonings and processed food industry, and we are well-known amongst the worldwide food industry.”",
+            "name": "Dhirabul Hosajakul",
+            "founder": "Founder, Executive Director",
+            "b1": "years in the business",
+            "b2": "trusted clients",
+            "b3": "flavors",
+            "b4": "professional personnel"
+        }
+    ],
+    "reward": [
+        {
+            "title": "Certificates"
+        }
+    ],
+    "brand": [
+        {
+            "title": "Brands"
+        }
+    ],
+    "structure": [
+        {
+            "title": "Organizational Structure",
+            "structure1": [
+                {
+                    "title": "Organizational Structure",
+                    "img": "../../images/about/structure1.png"
+                }
+            ],
+            "structure2": [
+                {
+                    "title": "Company Director"
+                }
+            ],
+            "structure3": [
+                {
+                    "title": "Executive Committee"
+                }
+            ],
+            "structure4": [
+                {
+                    "title": "Nomination and Remuneration Committee"
+                }
+            ],
+            "structure5": [
+                {
+                    "title": "Audit Committee"
+                }
+            ]
+        }
+    ]
+}

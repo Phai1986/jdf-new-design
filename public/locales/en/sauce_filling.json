@@ -1,0 +1,20 @@
+{
+  "SauceFilling":[
+		{
+			"title": "Sauce & Filling",
+			"detail": "JD Food produces sauces and fillings with care by carefully selecting top-quality ingredients from both domestic and international for excellent taste. Coupled with modern production processes meeting world-class standards. We can produce sauces and fillings that still taste as good as fresh ingredients.<br/><br/>In addition, JD Food also produces fillings for both meat and meatless cakes and bread. Including jelly for drinks or ice cream that the entrepreneurs can adjust the flavor to suit their own food type.",
+			"sub":[
+				{
+					"title": "Sauce",
+					"img": "../../images/product/Sauce_Filling/01.jpg",
+					"desc": "'Sauces' are ingredients that add flavor and flavor to the dishes to make them similar to freshly cooked food. It can be mixed with seasonings to add rich flavors or as similar to freshly dishes as possible.<br/><br/>Entrepreneurs can work together to develop the flavor of the sauce with researchers to get the most suitable product. Thanks to our state-of-the-art sauce production process, sauces can be stored for a long time which reduces disposal costs of fast-expiring ingredients. You can also choose from 3 types of products: Sauce, oil and paste. It will add both texture and flavor to dishes as well."
+				},
+				{
+					"title": "Fillings",
+					"img": "../../images/product/Sauce_Filling/02.jpg",
+					"desc": "Our fillings are an essential ingredient in desserts and bakery. Currently, new production technology has been implemented to develop a wider variety of filling styles and flavors.<br/><br/>JD Foods has developed fillings to meet the needs of consumers. Entrepreneurs can offer products that suit their consumers. Whether it's a melted filling like a lava bun or a donut-like texture that uses different production technologies. Moreover, our professional food scientists can also recommend you on other forms of filling further."
+				}
+			]
+		}
+	]
+}

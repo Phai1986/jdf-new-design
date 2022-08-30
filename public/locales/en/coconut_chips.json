@@ -1,0 +1,25 @@
+{
+  "CoconutChips":[
+		{
+			"title": "Coconut Chips and Dehydrated Food Products",
+			"detail": "JD Food is the first industrial factory in the processing of crispy coconuts and is the leading manufacturer of Thailand and ASEAN. By our selecting the best raw materials and controlled with internationally accepted BRC production standards, JD Food guarantees the quality of the export of our coconut chips to entrepreneurs around the world.<br/><br/>Besides our coconut chips, we also have dehydrated vegetables, dehydrated meat, dehydrated herbs, and dehydrated spices which are produced according to the needs of entrepreneurs as a raw material for various important foods as well as the seasonings of instant noodles, snacks, or other foods as well.",
+			"sub":[
+				{
+					"title": "Coconut Chips",
+					"img": "../../images/product/CoconutChips/01.jpg",
+					"desc": "Coconut is an important crop and agricultural product that has long been familiar to Thai people. The popular coconut processing is the crispy coconuts in a variety of flavors to meet the needs of a variety of consumers today. It is delicious and healthy. We guarantee the quality with BRC Kosher and Halal standards."
+				},
+				{
+					"title": "Air Dried Meat",
+					"img": "../../images/product/CoconutChips/02.jpg",
+					"desc": "JD Food has carefully selected ingredients to make dehydrated meats and dehydrated seafood combined with modern production processes We can guarantee that our dehydrated meats are of good quality and safe. It can confidently be assembled in a wide variety of foods, for example, in the instant noodle industry, some flavors are often added to dehydrated meat as raw materials to add nutritional value, color, and flavor."
+				},
+				{
+					"title": "Air Dried Vegetable",
+					"img": "../../images/product/CoconutChips/03.jpg",
+					"desc": "JD Food produces various types of dehydrated vegetables and dehydrated spices, such as chili, galangal, lemongrass, kaffir lime leaves by our patented modern machinery under the standard system. The entrepreneurs can be confident in our taste and safety. We produce under genuine international standards. The entrepreneurs can also choose different types of vegetables and spices independently for individual products as needed."
+				}
+			]
+		}
+	]
+}

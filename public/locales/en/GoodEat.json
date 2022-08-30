@@ -1,0 +1,159 @@
+{
+    "goodeats": {
+        "banner": {
+            "logo": "../../images/product/goodeats/goodeats-logo.png",
+            "img": "../../images/product/goodeats/goodeats-banner.png",
+            "p": "GOOD EATS presents a menu of instant soups, 2 premium flavors that we select from natural ingredients. and create chef-level deliciousness"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/goodeats-truffle.png",
+                "h1": "GOOD EATS TRUFFLE SOUP",
+                "p": "GOOD EATS Truffle Instant Soup' Instant Truffle Soup from the finest Black Truffle and White Truffle Oil from Italy"
+            },
+            {
+                "img": "../../images/product/goodeats/goodeats-lobster.png",
+                "h1": "GOOD EATS LOBSTER BISQUE",
+                "p": "GOOD EATS Instant Lobster Bisque Lobster Soup Rich flavors from the Canadian and American oceans"
+            }
+        ]
+    },
+    "kindee": {
+        "banner": {
+            "logo": "../../images/product/goodeats/kindee-logo.png",
+            "img": "../../images/product/goodeats/kindee-banner.png",
+            "p": "“Under the concept of \"Anyone Can Be a Chef\" and our intention to offer traditional and authentic Thai food, JD FOOD decided to establish the 'Kin Dee' brand in mid of 2005 by distributing instant food products such as rice, noodles, pad Thai and curry seasonings with an intense flavor that is likable of Thai people as well as being easy and convenient to cook. More importantly, the price is affordable.”<br/><br/>“In the near future, we will have much more different foods distributed on the market such as instant rice, instant curry, and soup, and instant Pad Thai to meet consumer demand for instant foods and additional flavoring.”"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/kindee-tomyum.png",
+                "h1": "Tom Yum",
+                "p": "Tom Yum has been a Thai traditional menu in the form of seasonings It contains authentic spices and seasonings in one sachet. Just mix the meat and vegetables and boil along with the Kin Dee's seasonings, you can enjoy the deliciousness in just 5 minutes."
+            },
+            {
+                "img": "../../images/product/goodeats/kindee-greencurry.png",
+                "h1": "Green Curry",
+                "p": "Green Curry has been a Thai traditional menu in the form of seasonings It contains authentic spices and seasonings in one sachet. Just mix the meat and vegetables and boil along with the Kin Dee's seasonings, you can enjoy the deliciousness in just 5 minutes."
+            },
+            {
+                "img": "../../images/product/goodeats/kindee-pork-chop.png",
+                "h1": "Larb – Namtok",
+                "p": "Larb – Namtok has been a Thai traditional menu in the form of seasonings. It contains authentic spices and seasonings in one sachet. Just mix the meat and vegetables and boil along with the Kindee's seasonings, you can enjoy the deliciousness immediately."
+            }
+        ]
+    },
+    "crispconut": {
+        "banner": {
+            "logo": "../../images/product/goodeats/crispconut-logo.png",
+            "img": "../../images/product/goodeats/crispconut-banner.png",
+            "p": "“Crispconut is a useful snack for health lovers. We dedicatedly select coconuts from the best coconut plantations in Thailand. Toasted coconut has an intense flavor, scented, and is produced through baking without oil and preservatives. Our coconut chips are delicious, sweet, and healthy.”<br/><br/>“In addition to being just a snack, our coconut chips are great for baking, sprinkling on salads, mixing with yogurt, and serving as a main course or any other customer's creations.”"
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/Crispconut/original.jpg",
+                "h1": "Coconutchips Original Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/chocolate.jpg",
+                "h1": "Coconutchips Chocolate Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/wasabi.jpg",
+                "h1": "Coconutchips Wasabi Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/salted-caramel.jpg",
+                "h1": "Coconutchips Salted Caramel Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/curry.jpg",
+                "h1": "Coconutchips Curry Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-chocolate.jpg",
+                "h1": "Coconut Bites Chocolate Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-mango.jpg",
+                "h1": "Coconut Bites Mango Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-durian.jpg",
+                "h1": "Coconut Bites Durian Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-bites-matcha.jpg",
+                "h1": "Coconut Bites Matcha Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-seedmedley.jpg",
+                "h1": "Coconut Cluster Seed Medley Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-puffedrice-and-cranberry.jpg",
+                "h1": "Coconut Cluster Puffed Rice Cocoa & Cranberry Flavour"
+            },
+            {
+                "img": "../../images/product/goodeats/Crispconut/coconut-cluster-dark-chocolate-and-cranberry.jpg",
+                "h1": "Coconut Cluster Dark Chocolate & Cranberry Flavour"
+            }
+        ]
+    },
+    "okseasonings": {
+        "banner": {
+            "logo": "../../images/product/goodeats/OK-Seasoning-logo.png",
+            "img": "../../images/product/goodeats/OK-Seasoning-banner.png",
+            "p": "'Ok' seasonings and fillings have been distributed to restaurant and bakery owners. The products are formulated to suit food and bakery by our professional researchers and developers under our modern machinery. Customers can be confident in the taste that is consistent and edible."
+        },
+        "items": [
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/salted-eggs.jpg",
+                "h1": "Salted Egg Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/mala.jpg",
+                "h1": "Mala Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/hot-and-spicy.jpg",
+                "h1": "Hot & Spicy Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/pizza.jpg",
+                "h1": "Pizza Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/wing-zab.jpg",
+                "h1": "Wing Zab Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/tomyum.jpg",
+                "h1": "Tom Yum Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/paprika.jpg",
+                "h1": "Paprika Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/popcorn.jpg",
+                "h1": "Popcorn Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/cheese.jpg",
+                "h1": "Cheese Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/nori.jpg",
+                "h1": "Nori Seaweed Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/barbecue.jpg",
+                "h1": "Barbecue Seasoning Powder"
+            },
+            {
+                "img": "../../images/product/goodeats/OK-Seasoning/ok-fillings.jpg",
+                "h1": "Fillings & Mayonnaise"
+            }
+        ]
+    }
+}

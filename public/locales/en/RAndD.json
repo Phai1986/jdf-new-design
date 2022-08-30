@@ -1,0 +1,38 @@
+{
+    "title": "Research and development of formulas by JD Food",
+    "detail": "JD Food is the expert partner behind a wide variety of flavors in the food industry, whether it's Snack, Instant Noodle or Food Service Restaurant.<br/><br/>JD Food provides a One-Stop Service from the process of searching for needs, providing advice on solving problems to complete turnkey production included the FDA application in the service process. All entrepreneurs can use the product immediately. We are here to facilitate everyone, eliminate the worries of the application process and increase the flexibility of running business further.<br/><br/>JD Food's product research and development team is dedicated to serving customers and entrepreneurs in all forms of the food businesses. It has the service procedures as follows:</p><strong>1. Cooperate with customers to find their needs<br><br>2. Have an action plan<br><br>3. Research and development<br><br>4. Receive the perfect custom formula</strong>",
+    "r_and_d_title": "Research and development of formulas",
+    "r_and_d_img": "jd_foods_r_and_d_steps.png",
+    "steps": [
+        {
+            "title": "1. Cooperate with customers to find their needs.",
+            "img": "R&D-step-1.png",
+            "detail": "Technical Sales will discuss with the entrepreneur and ask the individual needs and important information to develop the product together."
+        },
+        {
+            "title": "2. Have an action plan",
+            "img": "R&D-step-2.png",
+            "detail": "Technical Sales and R&D team will jointly plan the appropriate creative approach for production and determine workflows in R&D processes."
+        },
+        {
+            "title": "3. Research and development",
+            "img": "R&D-step-3.png",
+            "detail": "R&D team will test and formulate the product as the entrepreneur needs until receiving the prototype and deliver to the entrepreneur to retest and recheck the quality. The entrepreneur also can inform R&D team to adjust and expand the formula as much as they are satisfied."
+        },
+        {
+            "title": "4. Receive the perfect custom formula",
+            "img": "R&D-step-4.png",
+            "detail": "Once the trader has obtained the required formulas, the entrepreneur will provide you with a quotation and trading information. After that, the product will be produced respectively. The confidential formula will never be published to the public."
+        }
+    ],
+    "management_box_title": "Quality Management System: Food Safety and Hygiene",
+    "management_box_detail": "JD Foods has adopted an internationally recognized quality management system to achieve safe products with international quality standards in order to increase the confidence of consumers. It also has an internal quality management system that has been audited and certified by an independent agency to verify that the operation is in accordance with the established internal standards, international standards, compliance with rules, regulations, and laws as well as supervising and monitoring the quality management system from the first step until the successful product can be delivered to the entrepreneur.<br/><br/>Moreover, we also have suppliers to enhance the quality of our products. The system meets the global importance of food correctness and safety requirements along with issues relating to quality, environment, and society.<br/><br/>JP Food has always been prioritized on consumer needs for quality and safety. Therefore, we work with suppliers to produce quality products to ensure that they are safe, compliant, and reliable throughout every step of the process. We have on-site audits, method analyzers, and production standards, and provide regular reports, as well as special audits upon request or audits at specified intervals according to contract terms. These risk management and audit tools are capable of enabling suppliers to meet product safety standards and guidelines.",
+    "certificate_box_title": "Certification from various institutions on food quality and safety of JD Food.",
+    "certificate_box_detail": [
+        "Has been certified by Grade A BRC, the world-class standard for food safety from JAS-ANZ.",
+        "Has been certified by GMP in food production by ISO Certification Institute, Foundation Industry Development",
+        "Has been certified by Hazard Analysis and Critical Control Point, HACCP from Department of Fisheries, Thailand.",
+        "Has been certified by Halal Food Standards from the Central Islamic Council of Thailand.",
+        "Has been certified by FSMA Preventive Controls and FSVP Preparedness from BSI Group ANZ Pyt Ltd., Australia."
+    ]
+}

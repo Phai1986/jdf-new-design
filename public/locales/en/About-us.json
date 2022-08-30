@@ -1,0 +1,137 @@
+{
+    "page": "About us",
+    "banner": [
+        {
+            "img": "../../images/about/banner.jpg",
+            "h1": "Our Story",
+            "p": "JD FOOD PCL was established with the intention of Dhirabul Hosajakul and 3 other partners from the ideology of being a company and a factory producing dehydrated products such as fruits, vegetables, meat which distribute to industrial factories that produce instant foods and snacks."
+        }
+    ],
+    "history": [
+        {
+            "img1": "../../images/about/img1.jpg",
+            "txt1": "From the beginning, the company has developed continuously until now and we have been the market leader in seasonings for the food industry and capable of exporting international standard products to all over the world. For more than 22 years in the food industry, JD Food has created more than 10,000 seasonings and formulas for customers by providing a One-Stop Service from responding to the needs of customers in the first step with a team of experts and analyze, improve, taste and provide recommendations related to food products efficiently. ",
+            "txt2": "Whether it's expanding a franchise while keeping the original flavors or creating new flavors for a wide range of food brands. We are a conscious partner who aims for the business to run smoothly.",
+            "img2": "../../images/about/img2.jpg",
+            "txt3": "One of JD Food's outstanding expertise is being a manufacturer and distributor of crispy coconut products which are produced with modern machinery and quality control systems that meet world-class standards. In addition to that, we also have 3 other brands under our supervision as follows: 'Kin Dee', instant food products that are easy to cook with the traditional Thai taste. 'Crispconut' is an intense-flavored snack for health lovers and can be used as an ingredient in other snacks. 'OK seasoning powder' is a quick and easy flavor enhancer. Just add it to the food to add deliciousness to your favorite dishes.",
+            "txt4": "Every production and every product are our commitment that JD Foods has devoted itself to developing its business and being the market leader in seasonings that is trustworthy as long as possible."
+        }
+    ],
+    "vision": [
+        {
+            "block": [
+                {
+                    "img": "../../images/about/vision1.jpg",
+                    "title": "VISION",
+                    "text": "To be the national leader in seasoning and processed food industries and be recognized worldwide"
+                },
+                {
+                    "img": "../../images/about/vision2.jpg",
+                    "title": "MISSION",
+                    "text": "Enhance consumers to discover their unique taste by delivering high quality, safe and standardized products for great customer satisfaction"
+                },
+                {
+                    "img": "../../images/about/vision3.jpg",
+                    "title": "Quality Policy",
+                    "text": "We will produce consistent quality products. be safe Meet the requirements, be genuine, create customer satisfaction. and develop continuously"
+                }
+            ]
+        }
+    ],
+    "historybg": [
+        {
+            "yaer": "1999",
+            "title": "REGISTERED THE COMPANY OFFICIALLY",
+            "text": "We registered our company with a registered capital of 1,000,000 baht (one million baht) on 18 August 1999. We built our first factory in Samut Songkhram on an area of 732 square wa to produce various products such as dehydrated vegetables, dehydrated fruits and dehydrated meats."
+        },
+        {
+            "yaer": "1999",
+            "title": "ADDED PRODUCTION LINE FOR OUR SEASONINGS.",
+            "text": "The company added a production line in October by renting a warehouse to produce seasonings to meet the growing market demand and to deliver high quality products to entrepreneurs more quickly."
+        },
+        {
+            "yaer": "2002",
+            "title": "INITIATED THE CONCEPT OF “THAI FOOD CAN BE DELICIOUS ALL OVER THE WORLD”",
+            "text": "We established ‘Kin Dee’ brand for distributing instant fried rice, noodles, curries and soups produced by our factory at Ekachai"
+        },
+        {
+            "yaer": "2009",
+            "title": "ADDED THE PRODUCTION LINE FOR OUR COCONUT CHIPS",
+            "text": "We have produced and distributed coconut chips under the 'Crispconut' brand to meet the niche market's demand of “Healthy snacks”"
+        },
+        {
+            "yaer": "2011",
+            "title": "DISTRIBUTED OUR SEASONINGS AND FILLINGS",
+            "text": "We have innovated new formulas, produced seasonings and fillings under the 'OK' brand to meet the need of restaurant owners and bakery owners who do not have their own formula, seasonings, and filling."
+        },
+        {
+            "yaer": "2020",
+            "title": "PREPARED TO LIST ON THE STOCK EXCHANGE OF THAILAND",
+            "text": "We established a new factory in an area of over 33 rai in Samut Sakhon by designing the system and implementing modern machinery to use in our production processes. Until 18 June 2020, we have been registered as JD Food Public Company Limited which is ready for listing on the Stock Exchange of Thailand."
+        }
+    ],
+    "newsactive": [
+        {
+            "title": "News and Activities",
+            "news": [
+                {
+                    "img": "../../images/about/news1.jpg",
+                    "years": "DECEMBER 2020",
+                    "title": "WORKSHOP HELD TO PREPARE THE ORGANIZATION DEVELOPMENT PLAN IN 2020",
+                    "text": "It is a monthly manager's meeting activity in December 2020 held for summarizing the goals, determining sales, profits and policies. as well as offering the action plan of each department compared with the KPI along with preparing the solution to cope with the development in 2021 properly."
+                },
+                {
+                    "img": "../../images/about/news2.jpg",
+                    "years": "NOVEMBER 2020",
+                    "title": "WORKSHOP HELD TO PREPARE THE ORGANIZATION DEVELOPMENT PLAN IN 2021",
+                    "text": "The Business Plan Day in 2021 was held on 19 November 2020 at the Millennium Hilton Hotel. There was an executive team to assess the company's plans and success. It was a comparison of entire operations between 2019 and 2020 to create business plans, indicating measures and budget for 2021 further."
+                },
+                {
+                    "img": "../../images/about/news3.jpg",
+                    "years": "JANUARY 2020",
+                    "title": "LEADERSHIP DEVELOPMENT PROGRAM TRAINING FOR MANAGERS AND EXECUTIVES",
+                    "text": "..."
+                }
+            ]
+        }
+    ],
+    "core_value": [
+        {
+            "title": "CORE VALUE",
+            "text1": "“Partnership with Trust and Respect We treat our stakeholders and customers as partners to grow together with trust and respect.”",
+            "text2": "“Improvement for ChangeWe also continually improve and develop our work to be prepared for changes consistently.”",
+            "text3": "“Attention to Detail for Result We strive with attention to details to deliver high quality, safe and standardized products for great customer satisfaction.”"
+        }
+    ],
+    "structure": [
+        {
+            "title": "Corporate Structure",
+            "structure1": [
+                {
+                    "title": "Organizational Structure",
+                    "img": "../../images/about/structure1.png"
+                }
+            ],
+            "structure2": [
+                {
+                    "title": "Company Director"
+                }
+            ],
+            "structure3": [
+                {
+                    "title": "Executive Committee"
+                }
+            ],
+            "structure4": [
+                {
+                    "title": "Nomination and Remuneration Committee"
+                }
+            ],
+            "structure5": [
+                {
+                    "title": "Audit Committee"
+                }
+            ]
+        }
+    ]
+}

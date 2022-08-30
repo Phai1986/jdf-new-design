@@ -1,0 +1,26 @@
+@import './variables.module.scss';
+
+.standard_reward {
+    padding: 60px 0;
+    text-align: center;
+
+    h2 {
+        font-size: 40px;
+        color: $primary-color;
+    }
+
+    ul {
+        list-style: none;
+        width: 100%;
+        margin-top: 40px;
+
+        li {
+            display: inline-block;
+            margin: 0 15px;
+
+            img {
+                height: 60px;
+            }
+        }
+    }
+}

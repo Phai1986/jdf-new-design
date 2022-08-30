@@ -1,0 +1,51 @@
+{
+  "text_top": "Our Flavor lists",
+  "SauceFilling_sub": [
+    {
+      "title": "Sauce",
+      "desc": "'Sauces' are ingredients that add flavor and flavor to the dishes to make them similar to freshly cooked food. It can be mixed with seasonings to add rich flavors or as similar to freshly dishes as possible.<br/>Entrepreneurs can work together to develop the flavor of the sauce with researchers to get the most suitable product. Thanks to our state-of-the-art sauce production process, sauces can be stored for a long time which reduces disposal costs of fast-expiring ingredients. You can also choose from 3 types of products: Sauce, oil and paste. It will add both texture and flavor to dishes as well.",
+      "list_items": [
+        {
+          "sub_title": "Sauce",
+          "sub_list_items": [
+            "Chicken Rice Sauce",
+            "Gochujang Dipping Sauce",
+            "Noodle Gravy Sauce"
+          ]
+        },
+        {
+          "sub_title": "Paste",
+          "sub_list_items": [
+            "Chilli Paste",
+            "Tom Yum Paste"
+          ]
+        },
+        {
+          "sub_title": "Oil",
+          "sub_list_items": [
+            "Chili Oil",
+            "Fried Garlic Oil",
+            "Holy Basil Oil"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fillings",
+      "desc": "Our fillings are an essential ingredient in desserts and bakery. Currently, new production technology has been implemented to develop a wider variety of filling styles and flavors.<br/>JD Foods has developed fillings to meet the needs of consumers. Entrepreneurs can offer products that suit their consumers. Whether it's a melted filling like a lava bun or a donut-like texture that uses different production technologies. Moreover, our professional food scientists can also recommend you on other forms of filling further.",
+      "list_items": [
+        "Filling Flavored Blueberry",
+        "Filling Flavored Lemon",
+        "Filling Flavored Orange",
+        "Filling Flavored Pineapple",
+        "Filling Flavored Raspberry",
+        "Filling Flavored Strawberry",
+        "Filling Flavored Chocolate",
+        "Filling Flavored Vanilla",
+        "Filling Flavored Pandan",
+        "Filling Flavored Taro",
+        "Filling Mayonnaise"
+      ]
+    }
+  ]
+}
