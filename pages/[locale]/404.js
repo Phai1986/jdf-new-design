@@ -12,7 +12,7 @@ const Homepage = () => {
       <Header heading={t('h1')} title={t('title')} />
       <main>
         <div className={css.main}>
-          <h1 style={{ fontSize: 200 }}>404</h1>
+          <h1 style={{ fontSize: 200 }}>404 </h1>
           <p>{t('title')}</p>
         </div>
       </main>
