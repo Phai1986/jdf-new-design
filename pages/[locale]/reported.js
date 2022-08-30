@@ -47,6 +47,7 @@ const Reported = () => {
                 <Container>
                     <Row>
                         <Col lg={12} xs={12} className={css.reported}>
+                            <p>xxxxxxxxxx</p>
                             <h2 className='text-center'>{t("Reported:title2")}</h2>
                             <div className={css.desc} dangerouslySetInnerHTML={{ __html: t("Reported:p") }}></div>
                             <Form className={css.form} noValidate validated={validated} onSubmit={handleSubmit}>
