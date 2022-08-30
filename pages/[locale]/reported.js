@@ -42,6 +42,7 @@ const Reported = () => {
                 <div className={css.banner} style={{ backgroundImage: `url(` + banner_bg + `)` }}>
                     <Container className={css.text_center}>
                         <h1>{t("Reported:title")}</h1>
+                        <p>xxxxxxxxxxxxxxxxxxxxxxxx</p>
                     </Container>
                 </div>
                 <Container>
