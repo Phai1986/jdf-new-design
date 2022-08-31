@@ -19,6 +19,8 @@ const Reported = () => {
     const router = useRouter()
     const { t } = useTranslation(['Reported', 'common', 'footer', 'header'])
 
+    const [active, setActive] = useState(true)
+
     const [validated, setValidated] = useState(false);
     const handleSubmit = (event) => {
         setValidated(true);
@@ -67,11 +69,12 @@ const Reported = () => {
             }
             const response = await fetch(endpoint, options)
             const result = await response.json()
-            console.log('email return')
-            console.log(result)
+            // console.log('email return')
+            // console.log(result)
+            setActive(!active)
             alert("ทางบริษัทได้รับเรื่องของท่านแล้ว อาจมีเจ้าหน้าที่ติดต่อกลับเพื่อสอบถามข้อมูลเพิ่มเติม");
         } catch (err) {
-            console.log(err);
+            // console.log(err);
             alert("เกิดข้อผิดพลาด กรุณาทดลองใหม่");
         }
         return true
@@ -140,7 +143,7 @@ const Reported = () => {
                                     </Form.Group>
                                 </Row>
                                 <Row className={css.row}>
-                                    <Button style={{ width: 180, margin: "40px auto 0" }} type="submit">{t("Reported:button")}</Button>
+                                    <Button disabled={!active} style={{ width: 180, margin: "40px auto 0" }} type="submit">{t("Reported:button")}</Button>
                                 </Row>
                             </Form>
                         </Col>

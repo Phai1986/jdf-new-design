@@ -7,6 +7,6 @@ module.exports = {
     loader: 'imgix',
     path: '',
   },
-  basePath: '/new-site'
-  // basePath: '/phai/nextjs01'
+  //basePath: '/new-site'
+  //basePath: '/phai/nextjs01'
 }
