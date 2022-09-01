@@ -282,8 +282,8 @@
                         }
 
                         @media only screen and (max-width: 480px) {
-                            column-count: 2;
-                            font-size: 14px;
+                            column-count: 2!important;
+                            font-size: 12px;
                             border-bottom: 4px solid $primary-color;
                         }
 

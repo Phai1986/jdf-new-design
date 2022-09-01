@@ -60,12 +60,12 @@
         }
 
         img {
-            float: right;
-            margin-right: 20%;
+            display: inline-block;
+            width: 100%;
+            padding-right: 20%;
 
             @media only screen and (max-width: 480px) {
-                float: none;
-                margin-right: 10%;
+                padding-right: 0;
             }
         }
 
@@ -87,10 +87,11 @@
             color: $primary-color;
             padding-left: 20%;
             margin: 15px 0;
+            line-height: 1.5;
 
             @media only screen and (max-width: 480px) {
                 font-size: 18px;
-                padding-left: 0;
+                padding-left: 0;                
             }
         }
 

@@ -80,7 +80,7 @@
     ],
     "nomination_committee": [
         {
-            "title": "คณะกรรมการบริหาร",
+            "title": "กรรมการสรรหาและพิจารณาค่าตอบแทน",
             "board": [
                 {
                     "img": "../../images/about/board_of_director/img4.png",
@@ -102,7 +102,7 @@
     ],
     "audit_committee": [
         {
-            "title": "คณะกรรมการบริหาร",
+            "title": "กรรมการตรวจสอบ",
             "board": [
                 {
                     "img": "../../images/about/board_of_director/img2.png",

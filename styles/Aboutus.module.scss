@@ -16,6 +16,10 @@
         position: relative;
         color: $txt_white;
 
+        @media only screen and (max-width: 480px) {
+            background-position: top 35px right 32%;
+        }
+
         &::before {
             display: block;
             background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
@@ -69,7 +73,8 @@
         h2 {
             margin-bottom: 40px;
         }
-        p{
+
+        p {
             font-family: $font_light;
             color: $txt_gray;
         }
