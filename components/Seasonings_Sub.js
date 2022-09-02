@@ -42,18 +42,11 @@ export const Seasonings_Sub = (props) => {
     const block7_4 = t('Seasonings_sub.6.list_items.3.sub_list_items', { returnObjects: true });
     const block7_5 = t('Seasonings_sub.6.list_items.4.sub_list_items', { returnObjects: true });
 
-    const { query } = useRouter();
-    const [currentTab, setCurrentTab] = useState("tab1");
-    let check_tab = query.tab
 
-    if (check_tab == "tab1") {
-        console.log(currentTab)
-
-    } else if (check_tab == "tab2") {
-        console.log(currentTab)
-
-    }
-
+    const [currentTab, setCurrentTab] = useState(props.tabCurrent);    
+    useEffect(() => {
+        setCurrentTab(props.tabCurrent)
+    }, [props.tabCurrent]);
 
     return (
         <>
@@ -62,6 +55,8 @@ export const Seasonings_Sub = (props) => {
                     <div className={css.product_tab}>
                         <Tabs
                             defaultActiveKey={currentTab}
+                            activeKey={currentTab}
+                            onSelect={(key) => setCurrentTab(key)}
                             id="uncontrolled-tab-example"
                             className={css.tab_sub}
                         >

@@ -5,7 +5,7 @@ import pkg from 'next-i18next/package.json'
 import pkgLD from 'next-language-detector/package.json'
 import i18nextConfig from '../next-i18next.config';
 
-import React from "react";
+import React,{useState,useEffect} from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -14,7 +14,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import css from "../styles/Product.module.scss"
 
 
-export const CoconutChips_sub = () => {
+export const CoconutChips_sub = (props) => {
     const router = useRouter()
     const { t } = useTranslation('coconut_chips_sub')
     const currentLocale = router.query.locale || i18nextConfig.i18n.defaultLocale;
@@ -22,6 +22,11 @@ export const CoconutChips_sub = () => {
     const block1 = t('CoconutChips_sub.0.list_items', { returnObjects: true });
     const block2 = t('CoconutChips_sub.1.list_items', { returnObjects: true });
     const block3 = t('CoconutChips_sub.2.list_items', { returnObjects: true });
+
+    const [currentTab, setCurrentTab] = useState(props.tabCurrent);
+    useEffect(() => {
+        setCurrentTab(props.tabCurrent)
+    }, [props.tabCurrent]);
 
 
 
@@ -31,11 +36,13 @@ export const CoconutChips_sub = () => {
                 <Row>
                     <div className={css.product_tab}>
                         <Tabs
-                            defaultActiveKey={t("CoconutChips_sub.0.title")}
+                            defaultActiveKey="tab1"
+                            activeKey={currentTab}
+                            onSelect={(key) => setCurrentTab(key)}
                             id="uncontrolled-tab-example"
                             className={css.tab_sub}
                         >
-                            <Tab eventKey={t("CoconutChips_sub.0.title")} title={t("CoconutChips_sub.0.title")}>
+                            <Tab eventKey="tab1" title={t("CoconutChips_sub.0.title")}>
 
                                 <Container className={css.content}>
                                     <h3 className='text-center'>{t("CoconutChips_sub.1.title")}</h3>
@@ -49,7 +56,7 @@ export const CoconutChips_sub = () => {
                                     </ul>
                                 </Container>
                             </Tab>
-                            <Tab eventKey={t("CoconutChips_sub.1.title")} title={t("CoconutChips_sub.1.title")}>
+                            <Tab eventKey="tab2" title={t("CoconutChips_sub.1.title")}>
                                 <Container className={css.content}>
                                     <h3 className='text-center'>{t("CoconutChips_sub.1.title")}</h3>
                                     <p className='text-center' dangerouslySetInnerHTML={{ __html: t("CoconutChips_sub.1.desc") }}></p>
@@ -62,7 +69,7 @@ export const CoconutChips_sub = () => {
                                     </ul>
                                 </Container>
                             </Tab>
-                            <Tab eventKey={t("CoconutChips_sub.2.title")} title={t("CoconutChips_sub.2.title")}>
+                            <Tab eventKey="tab3" title={t("CoconutChips_sub.2.title")}>
                                 <Container className={css.content}>
                                     <h3 className='text-center'>{t("CoconutChips_sub.2.title")}</h3>
                                     <p className='text-center' dangerouslySetInnerHTML={{ __html: t("CoconutChips_sub.2.desc") }}></p>

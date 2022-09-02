@@ -5,7 +5,7 @@ import pkg from 'next-i18next/package.json'
 import pkgLD from 'next-language-detector/package.json'
 import i18nextConfig from '../next-i18next.config';
 
-import React from "react";
+import React,{useEffect,useState} from "react";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -14,7 +14,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import css from "../styles/Product.module.scss"
 
 
-export const SauceFilling_sub = () => {
+export const SauceFilling_sub = (props) => {
     const router = useRouter()
     const { t } = useTranslation('sauce_filling_sub')
     const currentLocale = router.query.locale || i18nextConfig.i18n.defaultLocale;
@@ -22,8 +22,16 @@ export const SauceFilling_sub = () => {
     const block1_1 = t('SauceFilling_sub.0.list_items.0.sub_list_items', { returnObjects: true });
     const block1_2 = t('SauceFilling_sub.0.list_items.1.sub_list_items', { returnObjects: true });
     const block1_3 = t('SauceFilling_sub.0.list_items.2.sub_list_items', { returnObjects: true });
-
     const block2 = t('SauceFilling_sub.1.list_items', { returnObjects: true });
+
+
+    const tabsActive = props.tabCurrent
+    const [currentTab, setCurrentTab] = useState(props.tabCurrent);
+    
+    useEffect(() => {
+        setCurrentTab(props.tabCurrent)
+    }, [props.tabCurrent]);
+
 
     return (
         <>
@@ -31,11 +39,13 @@ export const SauceFilling_sub = () => {
                 <Row>
                     <div className={css.product_tab}>
                         <Tabs
-                            defaultActiveKey={t("SauceFilling_sub.0.title")}
+                            defaultActiveKey="tab1"
+                            activeKey={currentTab}
+                            onSelect={(key) => setCurrentTab(key)}
                             id="uncontrolled-tab-example"
                             className={css.tab_sub}
                         >
-                            <Tab eventKey={t("SauceFilling_sub.0.title")} title={t("SauceFilling_sub.0.title")}>
+                            <Tab eventKey="tab1" title={t("SauceFilling_sub.0.title")}>
 
                                 <Container className={css.content}>
                                     <h3 className='text-center'>{t("SauceFilling_sub.0.title")}</h3>
@@ -71,7 +81,7 @@ export const SauceFilling_sub = () => {
                                     </Row>
                                 </Container>
                             </Tab>
-                            <Tab eventKey={t("SauceFilling_sub.1.title")} title={t("SauceFilling_sub.1.title")}>
+                            <Tab eventKey="tab2" title={t("SauceFilling_sub.1.title")}>
                                 <Container className={css.content}>
                                     <h3 className='text-center'>{t("SauceFilling_sub.1.title")}</h3>
                                     <p className='text-center' dangerouslySetInnerHTML={{ __html: t("SauceFilling_sub.1.desc") }}></p>
