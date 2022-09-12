@@ -23,6 +23,7 @@ const MyApp = ({ Component, pageProps }) => {
             <script id="cookieWow" type="text/javascript" src="https://cookiecdn.com/configs/ySqETpPb2KtbQYgDdpJk2ujd" data-cwcid="ySqETpPb2KtbQYgDdpJk2ujd"></script>
             <Favicon url="/images/JD_Food.svg"></Favicon>
             <Component {...pageProps} />
+            {/* <p>test 12092022</p> */}
         </>
     )
 
