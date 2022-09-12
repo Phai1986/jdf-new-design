@@ -21,7 +21,13 @@
     z-index: 0;
 
     .logo_footer {
-        @include background('../public/images/logo_footer.svg',90px);
+        display: inline-block;
+        background-image: url(../public/images/logo_footer.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        width: 120px;
+        height: 80px;
     }
     .location {
         @include background('../public/images/i_location.svg',23px);
