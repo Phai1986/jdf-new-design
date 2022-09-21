@@ -1,0 +1,36 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.product_service h2 {
+  color: #3D62AA;
+}
+.product_service .product {
+  margin-top: 40px;
+}
+.product_service .product .card {
+  border-bottom: 10px solid #3D62AA;
+  margin-bottom: 20px;
+  height: 100%;
+}
+@media only screen and (max-width: 640px) {
+  .product_service .product .card {
+    height: auto;
+  }
+}
+.product_service .product .card .card_title {
+  font-size: 28px;
+  color: #3D62AA;
+}
+@media only screen and (max-width: 640px) {
+  .product_service .product .card .card_title {
+    font-size: 30px;
+  }
+}
+.product_service .product .card img {
+  max-width: 100%;
+}
+.product_service .product .card .card_text {
+  font-family: futuralight, kittithada_medium_65regular;
+  font-size: 16px;
+  color: #808385;
+  min-height: 170px;
+}/*# sourceMappingURL=Product_Service_Blog.module.css.map */

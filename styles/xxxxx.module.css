@@ -1,0 +1,22 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.standard_reward {
+  padding: 60px 0;
+  text-align: center;
+}
+.standard_reward h2 {
+  font-size: 40px;
+  color: #3D62AA;
+}
+.standard_reward ul {
+  list-style: none;
+  width: 100%;
+  margin-top: 40px;
+}
+.standard_reward ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+.standard_reward ul li img {
+  height: 60px;
+}/*# sourceMappingURL=xxxxx.module.css.map */

@@ -43,7 +43,7 @@ const Homepage = () => {
 
         <div className={css.banner_jdf}>
           <div className={css.bg}>
-            <Link className={css.crop_vdo} href="https://www.youtube.com/watch?v=cgOnR4cg-x4" target="_blank">
+            <Link className={css.crop_vdo} href="https://www.youtube.com/watch?v=EyLaeOxbRpg" target="_blank">
               <video
                 ref={videoRef}
                 controls

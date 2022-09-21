@@ -1,0 +1,112 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.news_active {
+  background-color: #fff;
+  overflow: hidden;
+}
+.news_active h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+@media only screen and (max-width: 810px) {
+  .news_active h2 {
+    font-size: 22px;
+  }
+}
+.news_active .hisbox {
+  margin-bottom: 60px;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox {
+    margin: 20px 0 40px;
+  }
+}
+.news_active .hisbox .line {
+  position: relative;
+}
+.news_active .hisbox .line::before {
+  background: none repeat scroll 0 0 #3D62AA;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px #3D62AA;
+  content: "";
+  display: block;
+  height: 6px;
+  margin-left: -5px;
+  position: absolute;
+  right: 0;
+  top: 10px;
+  width: 6px;
+  z-index: 2;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox .line::before {
+    display: none;
+  }
+}
+.news_active .hisbox .line::after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  height: 100%;
+  border-left: 1px solid #d5dee1;
+  z-index: 1;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox .line::after {
+    display: none;
+  }
+}
+.news_active .hisbox img {
+  display: inline-block;
+  width: 100%;
+  padding-right: 20%;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox img {
+    padding-right: 0;
+  }
+}
+.news_active .hisbox h3 {
+  font-size: 30px;
+  color: #3D62AA;
+  padding-left: 20%;
+  margin: 0 0 15px;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox h3 {
+    font-size: 22px;
+    padding-left: 0;
+    margin: 20px 0;
+  }
+}
+.news_active .hisbox h4 {
+  font-size: 20px;
+  color: #3D62AA;
+  padding-left: 20%;
+  margin: 15px 0;
+  line-height: 1.5;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox h4 {
+    font-size: 18px;
+    padding-left: 0;
+  }
+}
+.news_active .hisbox p {
+  font-family: futuralight, kittithada_medium_65regular;
+  padding-left: 20%;
+  padding-right: 30%;
+  color: #808385;
+  min-height: 200px;
+}
+@media only screen and (max-width: 480px) {
+  .news_active .hisbox p {
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 14px;
+    min-height: auto;
+  }
+}/*# sourceMappingURL=NewsActive.module.css.map */

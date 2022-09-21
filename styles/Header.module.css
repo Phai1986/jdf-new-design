@@ -1,0 +1,60 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.header nav {
+  background-color: #fff;
+  border-top: 5px solid #3D62AA;
+  border-bottom: 1px solid rgba(51, 51, 51, 0.2);
+  width: 100%;
+  z-index: 5;
+  padding: 0;
+  margin: 0;
+}
+.header nav a {
+  margin: 0 20px;
+}
+@media only screen and (max-width: 810px) {
+  .header nav a {
+    text-align: center;
+    padding: 10px 0;
+  }
+}
+.header a {
+  font-size: 18px;
+  color: #3D62AA;
+  text-decoration: none;
+  font-family: futuraheavy, kittithada_medium_65regular;
+}
+.header .logo {
+  display: inline-block;
+  background-image: url(../public/images/logo-new2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  width: 120px;
+  height: 80px;
+}
+.header .lang {
+  display: inline-block;
+  padding: 0;
+  margin-left: 60px;
+}
+@media only screen and (max-width: 810px) {
+  .header .lang {
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+.header .lang button {
+  display: inline-block;
+  background: transparent;
+  margin: 0 5px;
+  border: 0;
+  text-transform: uppercase;
+  font-size: 18px !important;
+  color: #3D62AA;
+}
+@media only screen and (max-width: 810px) {
+  .header .lang button {
+    padding: 10px 0 20px;
+  }
+}/*# sourceMappingURL=Header.module.css.map */

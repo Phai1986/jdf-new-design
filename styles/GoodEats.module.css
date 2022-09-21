@@ -1,0 +1,116 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.banner_box {
+  background-color: #F0F0F0;
+  border-radius: 2px;
+  font-family: futuralight, kittithada_medium_65regular;
+  color: #808385;
+}
+@media only screen and (max-width: 480px) {
+  .banner_box {
+    padding-top: 20px;
+  }
+}
+.banner_box .img {
+  padding: 0;
+}
+@media only screen and (max-width: 480px) {
+  .banner_box .img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    overflow: hidden;
+    float: none;
+    padding: 15px;
+  }
+}
+.banner_box .desc {
+  padding: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .banner_box .desc {
+    padding: 15px !important;
+  }
+  .banner_box .desc img {
+    width: 150px;
+    display: block;
+    margin: 0 auto 20px;
+  }
+}
+.banner_box .desc h3 {
+  color: #3D62AA;
+  margin-bottom: 20px;
+  font-size: calc(0.8rem + 0.6vw);
+}
+.banner_box .desc p {
+  font-size: 20px;
+  margin: 15px 0;
+}
+@media only screen and (max-width: 480px) {
+  .banner_box .desc p {
+    font-size: 16px;
+  }
+}
+
+.card {
+  box-shadow: 0 0 8px rgba(51, 51, 51, 0.199);
+  margin: 5px 5px 15px;
+  padding: 10px;
+  border-radius: 5px;
+  height: 100%;
+  vertical-align: top;
+}
+@media only screen and (max-width: 810px) {
+  .card {
+    height: auto;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .card {
+    padding-top: 20px;
+  }
+}
+.card .img {
+  padding: 0;
+}
+@media only screen and (max-width: 480px) {
+  .card .img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    overflow: hidden;
+  }
+}
+.card .img img {
+  border-radius: 5px;
+}
+.card .desc {
+  padding: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .card .desc {
+    padding: 15px 0 0;
+  }
+}
+.card .desc h3 {
+  color: #3D62AA;
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .card .desc h3 {
+    font-size: 20px;
+  }
+}
+.card .desc p {
+  font-size: 18px;
+  margin: 15px 0;
+  font-family: futuralight, kittithada_medium_65regular;
+  color: #808385;
+}
+@media only screen and (max-width: 480px) {
+  .card .desc p {
+    font-size: 16px;
+  }
+}/*# sourceMappingURL=GoodEats.module.css.map */

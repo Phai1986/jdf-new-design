@@ -1,0 +1,21 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.jdf_brand {
+  text-align: center;
+}
+.jdf_brand h2 {
+  font-size: 40px;
+  color: #3D62AA;
+}
+.jdf_brand ul {
+  list-style: none;
+  width: 100%;
+  margin-top: 40px;
+}
+.jdf_brand ul li {
+  display: inline-block;
+  margin: 0 3%;
+}
+.jdf_brand ul li img {
+  height: 100px;
+}/*# sourceMappingURL=Brand.module.css.map */

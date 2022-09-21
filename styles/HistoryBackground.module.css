@@ -1,0 +1,75 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.history_background {
+  background-color: #fff;
+  overflow: hidden;
+}
+.history_background .hisbox {
+  margin-bottom: 60px;
+  position: relative;
+}
+.history_background .hisbox .bg_year {
+  width: 100%;
+  font-size: 120px;
+  color: #d5dee1;
+  text-align: center;
+  opacity: 0.5;
+  position: absolute;
+  top: 10%;
+  left: 0;
+}
+.history_background .hisbox .line {
+  position: relative;
+}
+.history_background .hisbox .line :before {
+  background: none repeat scroll 0 0 #3D62AA;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px #3D62AA;
+  content: "";
+  display: block;
+  height: 6px;
+  margin-left: -5px;
+  position: absolute;
+  right: 0;
+  top: 10px;
+  width: 6px;
+  z-index: 2;
+}
+.history_background .hisbox .line :after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  height: 100%;
+  border-left: 1px solid #d5dee1;
+  z-index: 1;
+}
+.history_background .hisbox h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+@media only screen and (max-width: 810px) {
+  .history_background .hisbox h2 {
+    font-size: 22px;
+  }
+}
+.history_background .hisbox h3 {
+  font-size: 30px;
+  color: #3D62AA;
+  text-align: right;
+  padding-right: 20%;
+}
+.history_background .hisbox p {
+  font-family: futuralight, kittithada_medium_65regular;
+  padding-left: 20%;
+  padding-right: 30%;
+  min-height: 200px;
+}
+@media only screen and (max-width: 810px) {
+  .history_background .hisbox p {
+    padding-left: 10%;
+    padding-right: 0;
+  }
+}/*# sourceMappingURL=HistoryBackground.module.css.map */

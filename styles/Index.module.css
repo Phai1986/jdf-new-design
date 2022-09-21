@@ -1,0 +1,191 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.index {
+  padding: 0;
+}
+.index .banner_jdf {
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.index .banner_jdf .crop_vdo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+}
+@media only screen and (max-width: 810px) {
+  .index .banner_jdf .crop_vdo {
+    z-index: -1;
+  }
+}
+.index .banner_jdf .crop_vdo::before {
+  display: block;
+  background-color: rgba(255, 255, 255, 0);
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.index .banner_jdf .crop_vdo .video {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+@media only screen and (max-width: 480px) {
+  .index .banner_jdf {
+    height: auto;
+  }
+}
+.index .banner_jdf .bg {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.index .banner_jdf .bg .content_left {
+  background-color: rgba(255, 255, 255, 0.6196078431);
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5% 0 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+@media only screen and (max-width: 480px) {
+  .index .banner_jdf .bg .content_left {
+    width: 100%;
+    padding: 40% 10% 10% 10%;
+    position: static;
+  }
+}
+.index .banner_jdf .bg .content_left h1,
+.index .banner_jdf .bg .content_left p {
+  color: #3D62AA;
+}
+.index .banner_jdf .bg .content_left h1 {
+  font-family: futuraheavy, kittithada_medium_65regular;
+  font-size: 80px;
+}
+@media only screen and (max-width: 480px) {
+  .index .banner_jdf .bg .content_left h1 {
+    font-size: 50px;
+  }
+}
+.index .banner_jdf .bg .content_left h1 span {
+  font-size: 40px;
+}
+.index .banner_jdf .bg .content_left p {
+  font-family: futuralight, kittithada_medium_65regular;
+  font-size: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .index .banner_jdf .bg .content_left p {
+    font-size: 18px;
+  }
+}
+.index .banner_jdf .readmore {
+  display: inline-block;
+  background-color: #fff;
+  padding: 5px 15px;
+  font-size: 20px;
+  color: #3D62AA;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 810px) {
+  .index .jdf_board .ch_img {
+    text-align: center;
+  }
+}
+.index .jdf_board .txt_good {
+  padding: 40px 10% 0 0;
+}
+.index .jdf_board .txt_good h2 {
+  font-size: 35px;
+  color: #3D62AA;
+  margin: 20px 0 0;
+}
+.index .jdf_board .txt_good p {
+  font-size: 20px;
+  color: #808385;
+  margin-top: 100px;
+}
+@media only screen and (max-width: 810px) {
+  .index .jdf_board .txt_good {
+    padding: 40px 0 0 0;
+    text-align: center;
+  }
+  .index .jdf_board .txt_good h2 {
+    font-size: 35px;
+  }
+  .index .jdf_board .txt_good p {
+    width: 100%;
+    text-align: center;
+    font-size: 22px !important;
+    margin-top: 20px !important;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .index .jdf_board .txt_good h2 {
+    margin: 20px;
+  }
+  .index .jdf_board .txt_good img {
+    width: 40px;
+  }
+}
+.index .jdf_board .data {
+  margin: 40px 0 0;
+}
+.index .jdf_board .data .bl {
+  margin-bottom: 25px;
+  overflow: hidden;
+}
+.index .jdf_board .data .bl .pic {
+  background-color: #3D62AA;
+  width: 62px;
+  height: 62px;
+  float: left;
+  text-align: center;
+  line-height: 62px;
+  border-radius: 50%;
+  position: relative;
+  top: 15px;
+}
+.index .jdf_board .data .bl .desc {
+  width: 60%;
+  font-size: 45px;
+  color: #808385;
+  float: left;
+  padding-left: 20px;
+}
+@media only screen and (max-width: 810px) {
+  .index .jdf_board .data .bl .desc {
+    font-size: 35px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .index .jdf_board .data .bl .desc {
+    width: auto;
+  }
+}
+.index .jdf_board .data .bl .desc span {
+  display: block;
+  font-family: futuralight, kittithada_medium_65regular;
+  font-size: 18px;
+}
+.index .jdf_detail h2 {
+  color: #3D62AA;
+}
+.index .jdf_detail p {
+  font-family: futuralight, kittithada_medium_65regular;
+  color: #808385;
+}/*# sourceMappingURL=Index.module.css.map */

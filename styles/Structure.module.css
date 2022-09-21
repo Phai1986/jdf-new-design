@@ -1,0 +1,110 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.structure {
+  padding: 60px 0;
+  text-align: center;
+}
+.structure h2 {
+  font-size: 40px;
+  color: #3D62AA;
+  margin-bottom: 40px;
+}
+.structure .tab {
+  display: block;
+  width: 100%;
+  border: 0;
+  margin-bottom: 0;
+}
+.structure .tab li {
+  display: inline-block;
+  width: 15%;
+  margin: 10px 5px;
+  vertical-align: middle;
+}
+@media only screen and (max-width: 480px) {
+  .structure .tab li {
+    width: 100%;
+    margin: 5px;
+  }
+}
+.structure .tab li button {
+  width: 100%;
+  height: 70px;
+  border: 1px solid #3D62AA;
+  border-radius: 5px;
+  color: #3D62AA;
+  padding: 0 25px;
+  font-size: 14px;
+}
+@media only screen and (max-width: 480px) {
+  .structure .tab li button {
+    padding: 10px;
+    height: auto;
+  }
+}
+.structure .tab li .active {
+  background-color: #3D62AA !important;
+  color: #fff;
+}
+.structure .structure_sub {
+  text-align: center;
+  padding-bottom: 0;
+}
+@media only screen and (max-width: 480px) {
+  .structure .structure_sub {
+    padding: 30px 0 0;
+  }
+}
+.structure .structure_sub h2 {
+  font-size: 30px;
+  color: #3D62AA;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 480px) {
+  .structure .structure_sub h2 {
+    font-size: 25px;
+  }
+}
+.structure .structure_sub .board {
+  list-style: none;
+  width: 100%;
+  margin-top: 40px;
+}
+.structure .structure_sub .board .block {
+  display: inline-block;
+  width: 20%;
+  margin: 15px;
+  vertical-align: top;
+}
+@media only screen and (max-width: 480px) {
+  .structure .structure_sub .board .block {
+    width: 40%;
+  }
+}
+.structure .structure_sub .board .block .img {
+  display: inline;
+}
+.structure .structure_sub .board .block .desc {
+  margin: 25px 0;
+}
+.structure .structure_sub .board .block .desc .name {
+  font-family: futuralight, kittithada_medium_65regular;
+  color: #3D62AA;
+  margin: 0;
+}
+@media only screen and (max-width: 480px) {
+  .structure .structure_sub .board .block .desc .name {
+    font-size: 16px;
+  }
+}
+.structure .structure_sub .board .block .desc .position {
+  font-family: futuralight, kittithada_medium_65regular;
+  color: #808385;
+  font-size: 16px;
+  margin: 0;
+}
+@media only screen and (max-width: 480px) {
+  .structure .structure_sub .board .block .desc .position {
+    font-size: 12px;
+  }
+}/*# sourceMappingURL=Structure.module.css.map */

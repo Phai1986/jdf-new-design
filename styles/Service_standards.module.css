@@ -1,0 +1,51 @@
+/* variables.module.scss */
+/*$primary-color : #004497;*/
+.service_standards {
+  overflow: hidden;
+}
+.service_standards h2 {
+  color: #3D62AA;
+}
+.service_standards .product {
+  margin-top: 40px;
+}
+.service_standards .product .block {
+  margin: 0;
+  padding: 0;
+}
+.service_standards .product .block .card {
+  margin-bottom: 0;
+  border: 0;
+  border-radius: 0;
+  position: relative;
+}
+.service_standards .product .block .card::before {
+  display: block;
+  background: linear-gradient(to top, rgb(0, 0, 0), rgba(46, 46, 46, 0.301) 50%, rgba(238, 238, 238, 0.267) 100%);
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.service_standards .product .block .card .img {
+  border-radius: 0;
+  max-width: 100%;
+}
+.service_standards .product .block .card .overlay {
+  height: auto;
+  bottom: 0;
+  top: inherit;
+  padding: 0 40px;
+}
+.service_standards .product .block .card .overlay .card_title {
+  font-size: 24px;
+  color: #fff;
+}
+.service_standards .product .block .card .overlay .card_text {
+  font-family: futuralight, kittithada_medium_65regular;
+  font-size: 16px;
+  color: #fff;
+  min-height: 170px;
+}/*# sourceMappingURL=Service_standards.module.css.map */
