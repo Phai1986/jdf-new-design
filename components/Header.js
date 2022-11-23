@@ -20,7 +20,7 @@ export const Header = ({ heading, title }) => {
   const currentLocale = router.query.locale || i18nextConfig.i18n.defaultLocale;
 
   const { query } = useRouter();
-  let linkout = "https://www.jdfthailand.com/" + query.locale + "/investor.php";
+  let linkout = "https://www.jdfthailand.com/ir/" + query.locale + "/index.html";
 
   return (
     <>
